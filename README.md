@@ -9,9 +9,7 @@
 ## 📌 Sneak Peek of Site 🙈 :
 
 
-
-https://user-images.githubusercontent.com/79128256/132115055-bca6efde-bed0-4a59-9a9b-f31a956a6ac1.mp4
-
+https://user-images.githubusercontent.com/79128256/132115323-2f467655-e146-4c38-b65c-5232f0864ff6.mp4
 
 
 
