@@ -1,0 +1,244 @@
+.svg-animation-container{
+    background-color: rgb(56, 151, 155);
+    width: 500px;
+    box-shadow: 0 8px 10px rgb(121, 113, 113) ;
+    padding: 24px;
+    margin: 0 auto;
+    border-radius: 20%;
+}
+
+.svg-animation-container svg{
+    width: 100%;
+}
+
+
+#Vector{
+    animation: change 1s infinite alternate;
+}
+    @keyframes change {
+        0% {
+            fill: rgb(64, 250, 64);
+        }
+        100%{
+            fill: green;
+        }
+    }
+
+        #Vector_2{
+            animation: change 2s infinite alternate;
+        }
+            @keyframes change {
+                0% {
+                    fill: rgb(64, 250, 64);
+                }
+                100%{
+                    fill: green;
+                }
+            }
+
+#Vector_3{
+            animation: ch 1s infinite alternate;
+        }
+            @keyframes ch {
+                0% {
+                    fill: rgb(241, 175, 19);
+                }
+                100%{
+                    fill: rgb(246, 119, 15);
+                }
+            }
+
+#Vector_4{
+                animation: ch 1s infinite alternate;
+            }
+                @keyframes ch {
+                    0% {
+                        fill: rgb(241, 175, 19);
+                    }
+                    100%{
+                        fill: rgb(246, 119, 15);
+                    }
+                }
+                #Vector_5{
+                    animation: c 1s infinite alternate;
+                }
+                    @keyframes c {
+                        0% {
+                            fill: rgb(241, 175, 19);
+                        }
+                        100%{
+                            fill: rgb(246, 119, 15);
+                        }
+                    }
+                    #Vector_6{
+                        animation: c 2s infinite alternate;
+                    }
+                        @keyframes c {
+                            0% {
+                                fill: rgb(241, 175, 19);
+                            }
+                            100%{
+                                fill: rgb(246, 119, 15);
+                            }
+                        }
+                        #Vector_7{
+                            animation: c 3s infinite alternate;
+                        }
+                            @keyframes c {
+                                0% {
+                                    fill: rgb(241, 175, 19);
+                                }
+                                100%{
+                                    fill: rgb(246, 119, 15);
+                                }
+                            }
+
+
+
+
+                       
+
+                         
+
+                    
+                       
+                                
+                                #Vector_9{
+                                    animation: chan  1s infinite alternate;
+                                }
+                                    @keyframes chan {
+                                        100% {
+                                            fill: rgb(0, 0, 0);
+                                        }
+                                        
+                                    }
+                                    #Vector_10{
+                                        animation: ki 20s infinite alternate;
+                                    }
+                                        @keyframes ki {
+
+                                            0% {
+                                                fill: rgb(68, 30, 8);
+                                            }
+                                            100%{
+                                                fill: rgb(126, 13, 13);
+                                            }
+                                            
+                                            
+                                        }
+
+                                        
+
+                                        
+
+                                            #left_2{
+                                                animation: hi 0.5s infinite alternate;
+                                                transform-origin: right;
+                                                transform-box: fill-box;
+                                            }
+                                                @keyframes hi {
+                                                    10% {
+                                                        transform: rotate(2deg);
+                                                    }
+                                                    100%{
+                                                        transform: rotate(7deg);
+                                                    }
+                                                    
+                                                }
+
+                                                
+
+                                                #right_2{
+                                                    animation: h 0.5s infinite alternate;
+                                                    
+                                                    transform-box: fill-box;
+                                                }
+                                                    @keyframes h {
+                                                        10% {
+                                                            transform: rotate(-2deg);
+                                                        }
+                                                        100%{
+                                                            transform: rotate(-8deg);
+                                                        }
+                                                        
+                                                    }
+
+#gyj{
+
+  
+        animation: po 5s infinite alternate;
+}
+        @keyframes po {
+            100% {
+                fill: rgb(102, 98, 98)
+            }
+            
+        }
+
+        #njk{
+
+  
+            animation: po 5s infinite alternate;
+    }
+            @keyframes po {
+                100% {
+                    fill: rgb(124, 120, 120)
+                }
+                
+            }
+
+
+            #Vector_11{
+                animation: cv 2s infinite alternate;
+            }
+                @keyframes cv {
+
+                    0% {
+                        fill: rgb(255, 3, 16);
+                    }
+                    100%{
+                        fill: rgb(255, 115, 0);
+                    }
+                    
+                    
+                }
+
+                #Vector_12{
+                    animation: cv 2s infinite alternate;
+                }
+                    @keyframes cv {
+
+                        0% {
+                            fill: rgb(255, 0, 0);
+                        }
+                        100%{
+                            fill: rgb(255, 115, 0);
+                        }
+                        
+                        
+                    }
+
+                    #Vector_13{
+                        animation: cv 2s infinite alternate;
+                    }
+                        @keyframes cv {
+
+                            0% {
+                                fill: rgb(255, 0, 64);
+                            }
+                            100%{
+                                fill: rgb(255, 115, 0);
+                            }
+                            
+                            
+                        }
+
+
+
+    
+
+
+
+
+
+
